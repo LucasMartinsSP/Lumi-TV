@@ -1,0 +1,12 @@
+{
+  "project": "Lumi TV",
+  "status": "development",
+  "tagline": "Sua TV. Seu jeito.",
+  "platforms": [
+    "Android",
+    "Android TV",
+    "Windows",
+    "UWP",
+    "Kodi/PVR"
+  ]
+}
