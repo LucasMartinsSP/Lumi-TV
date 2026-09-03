@@ -1,0 +1,11 @@
+{
+  "brand": "Lumi TV",
+  "ecosystem": "Lumi",
+  "tagline": "Sua TV. Seu jeito.",
+  "website": "https://tv.uselumisoft.tech",
+  "playlist": "https://tv.uselumisoft.tech/playlist.m3u",
+  "epg": "https://tv.uselumisoft.tech/epg.xml",
+  "logo": "https://tv.uselumisoft.tech/assets/branding/logo.png",
+  "icon": "https://tv.uselumisoft.tech/assets/branding/icon.png",
+  "playlist_version": "1.0"
+}
